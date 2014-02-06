@@ -1,0 +1,27 @@
+
+
+html, body, div, ul {
+	margin: 0;
+	padding: 0;
+}
+ body {
+ 	background: url(../img/back.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	
+	/*background-image: url(../img/background.jpg) repeat:x ;*/
+	
+}
+
+
+#comming_up{
+	text-align: center;
+	color:white;
+}
+.footer{
+	background-image:url(../img/love.png);
+}
